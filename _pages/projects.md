@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Outreach Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of outreach lectures and practicals (mostly in Dutch) for high-school students
 nav: true
 nav_order: 3
 display_categories: [work, fun]
