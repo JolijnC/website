@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-outreach-projects",
+          title: "Outreach Projects",
+          description: "A growing collection of outreach lectures and practicals (mostly in Dutch) for high-school students",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/projects/";
@@ -421,46 +421,21 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-coding-theory",
+          title: 'Coding Theory',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-logic-boards",
+          title: 'Logic Boards',
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-caesar-cipher-late-primary-school",
+          title: 'Caesar Cipher (late primary school)',
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/website/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/website/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/website/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/website/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/website/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
