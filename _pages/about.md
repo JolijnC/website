@@ -26,6 +26,7 @@ latest_posts:
 
 I am a PhD-TA candidate in the Coding & Cryptology group under the supervision of Tanja Lange at the Technical University of Eindhoven, the Netherlands. 
 
-I am mainly focused on doing cryptanalysis of post-quantum systems (mostly isogenies). Furthermore I do some projects on different aspects of algorithmic number theory. 
+I am mainly focused on cryptanalysis of post-quantum systems (isogeny-based). Furthermore I do some projects on different aspects of algorithmic number theory. 
 
-I enjoy teaching and supervising a lot and a lot of my time is spent on these tasks. 
+I enjoy teaching and supervising a lot and a lot of my time is spent on these tasks. I also have a few guest lectures and practicals I do for primary and high-school students (mainly in Dutch, but I can be flexible), see the Outreach tab for more information.
+
