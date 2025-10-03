@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Outreach Projects
-permalink: /projects/
-description: A growing collection of outreach lectures and practicals (mostly in Dutch) for high-school students
+title: Outreach
+permalink: /outreach/
+description: Outreach lectures and practicals (mainly in Dutch). 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
 
 <!-- pages/projects.md -->
 <div class="projects">
