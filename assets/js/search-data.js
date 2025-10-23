@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Introductie in modulo reken en Diffie Hellman",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/1_project/";
-            },},{id: "projects-coding-theory",
-          title: 'Coding Theory',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-coding-theory-les",
+          title: 'Coding Theory Les',
+          description: "Fouten verbeteren in digitale gegevens",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/2_project/";
             },},{id: "projects-logic-boards",
