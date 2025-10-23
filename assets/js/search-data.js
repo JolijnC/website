@@ -426,14 +426,14 @@ ninja.data = [{
           description: "Fouten verbeteren in digitale gegevens",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/2_project/";
-            },},{id: "projects-logic-boards",
-          title: 'Logic Boards',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-caesar-cipher",
+          title: 'Caesar Cipher',
+          description: "Caesar Cipher voor de basisschool",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/3_project/";
-            },},{id: "projects-caesar-cipher-late-primary-school",
-          title: 'Caesar Cipher (late primary school)',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-logic-board-practicum",
+          title: 'Logic Board Practicum',
+          description: "Practicum over het gebruik van een Logic Board",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/4_project/";
             },},{
