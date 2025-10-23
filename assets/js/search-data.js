@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-cryptologie-les",
           title: 'Cryptologie les',
-          description: "with background image",
+          description: "Introductie in modulo reken en Diffie Hellman",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/1_project/";
             },},{id: "projects-coding-theory",
