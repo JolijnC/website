@@ -4,7 +4,7 @@ title: Cryptologie les
 description: Introductie in modulo reken en Diffie Hellman
 img: assets/img/crypto.png
 importance: 1
-category: outreach
+category: work
 related_publications: true
 ---
 
