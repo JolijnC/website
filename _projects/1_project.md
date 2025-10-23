@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 ### Doelgroep
-Deze les is bedoeld voor leerlingen in de bovenbouw van VWO/HAVO die wiskunde B hebben. 
+Deze les is bedoeld voor leerlingen in de bovenbouw van havo/vwo die wiskunde B hebben. 
 
 ### Opbouw
 Deze les bestaat uit een presentatie gegeven door mij afgewisseld met tijd voor de leerlingen om opgaves te maken die aansluiten op het net uitgelegde materiaal.
