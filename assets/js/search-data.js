@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/cv/";
           },
-        },{id: "nav-teaching-and-supervision",
-          title: "Teaching and Supervision",
-          description: "Courses I teach and people I supervise",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/teaching_supervising/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
