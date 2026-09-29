@@ -10,13 +10,14 @@ nav_order: 6
 
 ### Courses
 1. 2MBA30 Programming & Modelling for mathematics bachelor year 1, Q2.
-2. 2MBD30 Applied Number Theory and Algebra for mathematics bachelor year 2, Q3. 
-3. 2MMR10 Professional Portfolio, Scientifc Integrity course and modelling week, for mathematics master year 1, Q1. 
-4. 6BBR06 Programming & Linear Algebra, for chemical engineering bachelor year 1, Q2. 
+2. 2MMR10 Professional Portfolio, Scientifc Integrity course and modelling week, for mathematics master year 1, Q1. 
+3. 6BBR06 Programming & Linear Algebra, for chemical engineering bachelor year 1, Q2. 
 
 ### Former courses
 1. 2WH30 Mathematical Modelling. 
 2. 2WF70 Algorithmic Algebra and Number Theory.
+3. 2MBD30 Applied Number Theory and Algebra for mathematics bachelor year 2, Q3. 
+
 
 ### Supervision
 #### Bachelor
@@ -25,6 +26,9 @@ nav_order: 6
 3. Alejandra Alcantarilla Sanchez, ['Looking at Solovay-Strassen as an Adversary: A study on pseudoprime construction'](https://research.tue.nl/en/studentTheses/looking-at-solovay-strassen-as-an-adversary/), co-supervised with [Tanja Lange](https://www.hyperelliptic.org/tanja/index.html). 
 4. Lynn Schuurman, ['Quantum Procedures for Factorizing
 Large Numbers'](https://research.tue.nl/en/studentTheses/quantum-procedures-for-factorizing-large-numbers/), co-supervised with [Subhasree Patro](https://subhasree-patro.github.io/).
+5. Elisavet Papaconstantinou, 'The Number Theoretic Transform and its optimization for NTRU+', co-supervised with [Tanja Lange](https://www.hyperelliptic.org/tanja/index.html). 
+
 
 #### Master
 1. Luc Steenbakkers, Cryptanalysis of Hamming Quasi-Cyclic, co-supervised with [Tanja Lange](https://www.hyperelliptic.org/tanja/index.html).
+2. Sashwat Rath, Verifying Approximate Computations for Outsourced Settings, co-supervised with [Monika Trimoska](https://mtrimoska.com/), Thom Sijpesteijn (TNO) and Vincent Dunning (TNO, University of Twente). 
